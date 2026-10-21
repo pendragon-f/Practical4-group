@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitConflictDemo-group</string>
+    <string name="screen_title">Git Conflict Demo</string>
+    <string name="button_one">Button One</string>
+    <string name="button_two">Button Two</string>
+    <string name="button_one_clicked">Button One clicked</string>
+    <string name="button_two_clicked">Button Two clicked</string>
+</resources>
